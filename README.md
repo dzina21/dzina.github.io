@@ -1,17 +1,14 @@
-# dzina21.github.io
+## dzina21.github.io
+
+[Dzina21](https://dzina21.github.io/) - My webCV
 
 All about my professional adventure.
 A small project to present my hard skill in order to get a plan process CV.
 
 ## Getting Started
 
-Start from the bottom, real bottom but always stay focused on what you want to become. 
-We are passionate about that and we do it for everything, everywhere and for everybody.
-
-### Prez
-
-Nothing
-
+Start from the bottom, real bottom but always stay focused on what we want to become. 
+We are passionate about that and we do it.
 
 ### Path
 
